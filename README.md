@@ -12,7 +12,7 @@ Một dự án nho nhỏ góp phần giúp bạn có những phút giây đăng 
 
 ## Cài Đặt
 
-Cách để lấy kverify của mình (Làm theo ảnh nha):
+<h2> Cách để lấy kverify của mình (Làm theo ảnh nha) </h2>
 
 Bước 1:
 
@@ -32,7 +32,30 @@ Trong mục index kéo xuống và tìm kverify ở phần <'script'>
 
 ![Ảnh chụp màn hình](./img/kB3.png)
 
+<h2> Cách để lấy cookie </h2>
+
+Bước 1:
+
+Đăng nhập vào phần đăng kí học phần trước 30p nha, nhớ mở phần kiểm tra trước khi vào đăng kí học phần nha ^^
+
+Chuyển đến Network rồi chọn bất kì mục action.html..... nào ở dưới cũng được nha
+
+![Ảnh chụp màn hình](./img/cB1.png)
+
+Bước 2:
+
+ở bên cạnh chọn Header rồi tìm đến mục Request Headers
+
+![Ảnh chụp màn hình](./img/cB2.png)
+
+Bước 3:
+
+Kéo xuống dưới tìm mục Cookie rồi coppy hết các giá trị của nó bên cạnh là xong (Sẽ khá là dài đấy) ^^
+
+![Ảnh chụp màn hình](./img/cB3.png)
+
 ```bash
+
 git clone https://github.com/ductrung309/sub_register-haui
 
 ```

@@ -1,6 +1,6 @@
 # Tên Dự Án
 
-<strong>zPyHaui</strong>
+<h2>zPyHaui</h2>
 
 ![Ảnh chụp màn hình](./img/Screenshot%202024-08-15%20174150.png)
 

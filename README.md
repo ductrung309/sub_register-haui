@@ -2,6 +2,8 @@
 
 <h2>zPyHaui</h2>
 
+<h4>File app ở trong thư mục dist nha ^^<h4>
+
 ![Ảnh chụp màn hình](./img/Screenshot%202024-08-15%20174150.png)
 
 ## Giới Thiệu

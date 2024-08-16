@@ -18,8 +18,6 @@ Một dự án nho nhỏ góp phần giúp bạn có những phút giây đăng 
 
 Bước 1:
 
-Nhớ đăng nhập vô trước 30p nha không là bị lỗi đó ^^
-
 Sau khi vào trang chủ thì ta ấn F12 hoặc click chuột phải vào màn hình chọn inspect (Kiểm tra)
 
 Chuyển đến Network rồi chọn bất kì mục action.html..... nào ở dưới cũng được nha

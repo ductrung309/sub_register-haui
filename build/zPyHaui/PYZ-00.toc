@@ -1,4 +1,4 @@
-('C:\\Users\\84984\\Desktop\\display_control\\Vue\\zpyhaui\\build\\zPyHaui\\PYZ-00.pyz',
+('C:\\Users\\84984\\Desktop\\display_control\\Vue\\zpyHaui\\build\\zPyHaui\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\84984\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),

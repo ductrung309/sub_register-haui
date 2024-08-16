@@ -2,7 +2,7 @@
 
 <h2>zPyHaui</h2>
 
-<h4>File app ở trong thư mục dist nha ^^<h4>
+<h4>File app ở trong thư mục dist ha<h4>
 
 ![Ảnh chụp màn hình](./img/Screenshot%202024-08-15%20174150.png)
 
@@ -14,7 +14,33 @@ Một dự án nho nhỏ góp phần giúp bạn có những phút giây đăng 
 
 ## Cài Đặt
 
-<h2> Cách để lấy kverify của mình (Làm theo ảnh nha) </h2>
+<h2> Cách để lấy cookie </h2>
+
+Bước 1:
+
+Nhớ đăng nhập vô trước 30p nha không là bị lỗi đó ^^
+
+Sau khi vào trang chủ thì ta ấn F12 hoặc click chuột phải vào màn hình chọn inspect (Kiểm tra)
+
+Chuyển đến Network rồi chọn bất kì mục action.html..... nào ở dưới cũng được nha
+
+(Nếu không có action.html nào thì ta có thể reload lại trang web)
+
+![Ảnh chụp màn hình](./img/cB1.png)
+
+Bước 2:
+
+Bên cạnh chọn Header rồi tìm đến mục Request Headers
+
+![Ảnh chụp màn hình](./img/cB2.png)
+
+Bước 3:
+
+Kéo xuống dưới tìm mục Cookie rồi coppy hết các giá trị của nó bên cạnh là xong (Sẽ khá là dài đấy) ^^
+
+![Ảnh chụp màn hình](./img/cB3.png)
+
+<h2> Cách để lấy kverify của mình </h2>
 
 Bước 1:
 
@@ -33,28 +59,6 @@ Bước 3:
 Trong mục index kéo xuống và tìm kverify ở phần <'script'>
 
 ![Ảnh chụp màn hình](./img/kB3.png)
-
-<h2> Cách để lấy cookie </h2>
-
-Bước 1:
-
-Đăng nhập vào phần đăng kí học phần trước 30p nha, nhớ mở phần kiểm tra trước khi vào đăng kí học phần nha ^^
-
-Chuyển đến Network rồi chọn bất kì mục action.html..... nào ở dưới cũng được nha
-
-![Ảnh chụp màn hình](./img/cB1.png)
-
-Bước 2:
-
-ở bên cạnh chọn Header rồi tìm đến mục Request Headers
-
-![Ảnh chụp màn hình](./img/cB2.png)
-
-Bước 3:
-
-Kéo xuống dưới tìm mục Cookie rồi coppy hết các giá trị của nó bên cạnh là xong (Sẽ khá là dài đấy) ^^
-
-![Ảnh chụp màn hình](./img/cB3.png)
 
 ```bash
 

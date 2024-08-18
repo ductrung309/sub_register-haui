@@ -5,7 +5,7 @@ a = Analysis(
     ['zPyHaui.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('courses.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
